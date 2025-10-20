@@ -1,0 +1,10 @@
+{
+  "name": "vlad",
+  "description": "Speak, and the orb responds. An interactive experience powered by the Live Audio API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ],
+  "prompt": ""
+}
